@@ -1,0 +1,7 @@
+[Wed Jun 20 16:46:23 2012] [notice] Apache/2.2.15 (Win32) PHP/5.2.17 configured -- resuming normal operations
+[Wed Jun 20 16:46:23 2012] [notice] Server built: Mar  4 2010 11:27:46
+[Wed Jun 20 16:46:23 2012] [notice] Parent: Created child process 3336
+[Wed Jun 20 16:46:25 2012] [notice] Child 3336: Child process is running
+[Wed Jun 20 16:46:25 2012] [notice] Child 3336: Acquired the start mutex.
+[Wed Jun 20 16:46:25 2012] [notice] Child 3336: Starting 64 worker threads.
+[Wed Jun 20 16:46:25 2012] [notice] Child 3336: Starting thread to listen on port 5217.
