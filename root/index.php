@@ -1,1 +1,3 @@
-Default Root Folder
+<?php
+
+phpinfo();
